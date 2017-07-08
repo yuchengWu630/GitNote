@@ -268,6 +268,9 @@ HEAD is now at 04c6450 append readme1
 然后我们查看readme.txt的内容又回来了.
 
 Git的版本回退速度非常快，因为Git在内部有个指向当前版本的 ```HEAD``` 指针，当你回退版本的时候，Git仅仅是把 ```HEAD``` 从指向append readme1：
+ 
+<br/> 
+ 
 ![](http://wx4.sinaimg.cn/mw1024/006RjiPOly1fhcwbiihbwj30cg0803yq.jpg)
 ![](http://wx2.sinaimg.cn/mw1024/006RjiPOly1fhcwbjo51wj30d307sdg2.jpg)
 ****
